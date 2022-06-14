@@ -1,0 +1,15 @@
+D:\practice_C#_2020\bin\Debug\net6.0\practice_C#_2020.exe
+D:\practice_C#_2020\bin\Debug\net6.0\practice_C#_2020.deps.json
+D:\practice_C#_2020\bin\Debug\net6.0\practice_C#_2020.runtimeconfig.json
+D:\practice_C#_2020\bin\Debug\net6.0\practice_C#_2020.dll
+D:\practice_C#_2020\bin\Debug\net6.0\practice_C#_2020.pdb
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.csproj.AssemblyReference.cache
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.GeneratedMSBuildEditorConfig.editorconfig
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.AssemblyInfoInputs.cache
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.AssemblyInfo.cs
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.csproj.CoreCompileInputs.cache
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.dll
+D:\practice_C#_2020\obj\Debug\net6.0\refint\practice_C#_2020.dll
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.pdb
+D:\practice_C#_2020\obj\Debug\net6.0\practice_C#_2020.genruntimeconfig.cache
+D:\practice_C#_2020\obj\Debug\net6.0\ref\practice_C#_2020.dll
